@@ -1,0 +1,2 @@
+# Smart Parking
+ A campus-based smart parking application designed to help students find the most optimal parking garage based on their class schedule, real-time availability, and walking distance. Built using Flutter and Google Maps API, the app uses LLM-based logic to intelligently score and rank garages for each user. The project supports over 20,000 students at FIU and aims to reduce traffic congestion and improve navigation efficiency across campus.
